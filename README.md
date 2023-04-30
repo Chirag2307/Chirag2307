@@ -4,7 +4,8 @@
 **Chirag2307/Chirag2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🚀 I am a passionate developer who loves to code and solve problems.I am always eager to learn new things and explore different technologies, so you will find a             diverse range of projects on my page.
+- 🚀 I am a passionate developer who loves to code and solve problems.
+-    I am always eager to learn new things and explore different technologies, so you will find a diverse range of projects on my page.
 
 - 🔭 I’m currently working on React.js Projects.
 

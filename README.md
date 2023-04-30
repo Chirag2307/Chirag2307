@@ -16,6 +16,6 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me:📧chirag23072000@gmail.com 
 
-- ⚡ Fun fact: I like Shikamaru from Naruto 😁
+- ⚡ Fun fact about me: I like Shikamaru from Naruto 😁
 
 

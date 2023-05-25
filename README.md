@@ -15,7 +15,10 @@ Here are some ideas to get you started:-->
 
 - 💬 Ask me about Front-End Tools
 
-- 📫 How to reach me:📧chirag23072000@gmail.com 
+- 📫 How to reach me:📧chirag23072000@gmail.com | <div id="badges">
+  <a href="https://www.linkedin.com/in/chiragsharma23/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 - ⚡ Fun fact about me: I like Shikamaru from Naruto 😁
 

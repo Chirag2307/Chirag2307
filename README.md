@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 - 🚀 I am a passionate developer who loves to code and solve problems.
 -    I am always eager to learn new things and explore different technologies, so you will find a diverse range of projects on my page.
 
-- 🔭 I’m currently working on React.js Projects.
+- 🔭 I’m currently working on Niche Projects.
 
 - 🌱 I’m currently learning Full-Stack Devlopment
 

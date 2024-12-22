@@ -23,10 +23,10 @@ Here are some ideas to get you started:-->
 <a href="chirag23072000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <span>
+  <p>
     Discord User: shikamaru2
-  </span>
-
+  </p>
+</div>
 
 - ⚡ Fun fact about me: I like Shikamaru from Naruto 😁
 
